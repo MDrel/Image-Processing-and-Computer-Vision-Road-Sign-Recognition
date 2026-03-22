@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 10 15:41:52 2025
 
-@author: Laptop
+@author: Martin Drelichowska
 """
 
 import cv2
